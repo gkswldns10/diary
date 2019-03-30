@@ -1,0 +1,9 @@
+4 requirements 
+
+1. able to get the city that user is in right now. 
+
+2. able to get the current weather of the location 
+
+3. able to choose what font that they want to write in 
+
+4. implemented cover before they go into the diary 
